@@ -15,6 +15,15 @@ By completing this hands-on, students will be able to:
 
 ---
 
+## 📂 Dataset
+The custom dataset used in this project is available on Google Drive:  
+
+👉 [Download Vehicle Dataset](https://drive.google.com/drive/u/1/folders/19YbTcYBnE8OBDADiuqCZtkg785inWoat)  
+
+*(Please ensure you have access before running the notebooks or training the model.)*
+
+---
+
 ## 🛠️ Project Workflow
 1. **Load Pretrained Model** – Initialize YOLOv11 with pretrained weights.  
 2. **Dataset Exploration** – Visualize and analyze annotated vehicle dataset.  
